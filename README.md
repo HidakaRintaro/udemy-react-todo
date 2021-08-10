@@ -1,2 +1,3 @@
 # udemy-react-todo
-Created with CodeSandbox
+
+udemy の react で todo アプリを作ってみた
